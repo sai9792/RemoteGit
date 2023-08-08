@@ -1,2 +1,0 @@
-This is a FileC
-This is in a subbranch called Test
