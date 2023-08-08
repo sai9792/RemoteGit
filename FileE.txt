@@ -1,1 +1,2 @@
 New file to Branch1
+Added new content to check the sync on github
