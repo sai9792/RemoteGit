@@ -1,1 +1,2 @@
 Hello, This is FileC, added again in Github account.
+hello this is a new modification through gitbash
