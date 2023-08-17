@@ -1,7 +1,0 @@
-This is fileA
-<<<<<<< HEAD
-This is a new addition to FileA
-=======
-There is a change to this fileA.
-another change.
->>>>>>> Branch1
