@@ -1,4 +1,3 @@
 This is fileA
 Modifying the data to merge with main branch locally.
-adding a ORT stratagy testing changes.
 adding another line to test ORT.
