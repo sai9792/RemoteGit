@@ -1,2 +1,2 @@
 Testing the remote merges.
-Adding another line in github
+Modifying the fileA in Subbranch Branch1
