@@ -1,1 +1,2 @@
 Testing the remote merges.
+Modifying the fileA in Subbranch Branch1
